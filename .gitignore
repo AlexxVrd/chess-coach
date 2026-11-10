@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# données personnelles et fichiers lourds (re-téléchargeables)
+data/chesscoach.db*
+data/syzygy/
+data/lichess_puzzles.db
+data/downloads/
+*.zip

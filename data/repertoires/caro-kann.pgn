@@ -1,0 +1,49 @@
+[Event "Caro-Kann (contre 1.e4)"]
+[Site "Chess Coach"]
+[Result "*"]
+[Color "Black"]
+[Description "1.e4 c6 puis ...d5 : on conteste le centre, on sort le fou c8 avant ...e6, et on vise des structures saines. Les finales sont souvent bonnes pour toi."]
+
+1. e4 c6
+{ La Caro-Kann : on prépare ...d5 sans enfermer le fou c8 (contrairement à la Française). } 2. d4 (
+2. Nf3 d5 3. Nc3 { Les Deux Cavaliers. } ( 3. e5 Bf5 4. d4 ( 4. Be2 e6 ) 4... e6 5. Be2 ) ( 3. exd5
+cxd5 4. d4 ( 4. Bb5+ Nc6 ) 4... Nf6 ( 4... Bf5 { Aussi bon : ton coup habituel. } ) 5. Bd3 Nc6 6.
+c3 Bg4 ) ( 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 { Les Blancs ont perdu le droit de roquer. } ) ( 3. d4
+) 3... Bg4 { On cloue le cavalier f3. } 4. h3 ( 4. Be2 e6 5. d4 Nf6 ) 4... Bxf3
+{ On donne la paire de fous mais on garde une structure saine et on gagne du temps. } 5. Qxf3 e6 6.
+d3 ( 6. d4 dxe4 7. Nxe4 Qxd4 ) 6... Nf6 ) ( 2. Nc3 d5 3. Nf3 ( 3. d4 ) ( 3. Qf3 dxe4 4. Nxe4 Nd7 )
+( 3. exd5 cxd5 4. d4 Nf6 ( 4... Bf5 { Aussi bon : ton coup habituel. } ) ) ( 3. e5 $6
+{ Les Blancs avancent trop tôt. } 3... d4
+{ Le cavalier c3 doit bouger : tu gagnes de l'espace avec tempo. } 4. Nce2 c5 ) ) ( 2. Bc4 d5 3.
+exd5 ( 3. Bb3 dxe4 4. Qh5 e6 ) 3... cxd5 4. Bb5+ ( 4. Bb3 Nf6 ) 4... Bd7 ( 4... Nc6 { Aussi bon. }
+) 5. Bxd7+ Qxd7 ) ( 2. c4 d5 3. exd5 ( 3. cxd5 cxd5 4. exd5 Nf6 ) 3... cxd5 4. cxd5 Nf6 ) ( 2. d3
+d5 3. Nd2 e5 4. Ngf3 Bd6 ) ( 2. Qf3 $6 { La dame sort trop tôt. } 2... d5 3. exd5 cxd5 ) ( 2. f4 d5
+3. e5 Bf5 4. Nf3 e6 ) 2... d5 { On conteste le centre tout de suite. } 3. e5
+{ La variante d'avance. } ( 3. exd5 cxd5
+{ On reprend avec le pion c : structure symétrique, colonne c semi-ouverte pour toi. } 4. Bd3
+{ La variante d'échange. } ( 4. c4 { L'attaque Panov : les Blancs acceptent un pion isolé en d4. }
+4... Nf6 5. Nc3 e6 6. Nf3 Be7 7. cxd5 ( 7. Bd3 dxc4 8. Bxc4 O-O ) 7... Nxd5 8. Bd3 Nc6 9. O-O O-O
+{ Bloque le pion isolé (case d5) et échange les pièces : les finales seront pour toi. } ) ( 4. Nf3
+Nf6 5. Bd3 Nc6 6. c3 Bg4 ) ( 4. Nc3 ) 4... Nc6 { Pression sur d4. } 5. c3 Nf6 6. Bf4 ( 6. Nf3 Bg4
+7. O-O e6 ) 6... Bg4 { Le fou sort avant ...e6, comme toujours. } 7. Qb3 Qd7
+{ On défend b7 calmement. } 8. Nd2 e6 9. Ngf3 Bd6 ) ( 3. Nc3 dxe4
+{ On prend : le cavalier blanc reprend en e4. } 4. Nxe4 Bf5
+{ Le fou sort en attaquant le cavalier. } 5. Ng3 ( 5. Nc5 b6 6. Nb3 e6 ) ( 5. Bd3 $2 Qxd4
+{ Le pion d4 n'était plus défendu : on le prend. } ) ( 5. Ng5 { Le cavalier vise f7 et e6. } 5...
+e6 { Solide : on ferme la diagonale et f7 est couvert. } ) ( 5. Qf3 $6 { La dame sort trop tôt. }
+5... e6 ) 5... Bg6 6. h4 ( 6. Nf3 Nd7 7. h4 h6 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 ) ( 6. Bc4 e6 7.
+N1e2 Nf6 ) 6... h6 { On prépare une case de retraite (h7) pour le fou contre h5. } 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 { Structure idéale : plan ...Ngf6, ...Be7 ou ...Qc7, puis ...c5. } ) (
+3. Nd2 dxe4 4. Nxe4 ) ( 3. f3 { La Fantaisie : les Blancs soutiennent e4 avec un pion. } 3... e6
+{ Solide : on prépare ...c5 ou ...Bb4. } 4. Nc3 Bb4 ) ( 3. Nf3 dxe4 4. Ng5 Bf5 ) ( 3. c4 $6
+{ Le pion e4 n'est plus défendu. } 3... dxe4 { On prend ! } ) 3... Bf5
+{ Le fou sort AVANT ...e6 : c'est tout l'intérêt de la Caro-Kann. } 4. Nf3 ( 4. Bd3 Bxd3
+{ On échange : ce fou blanc était le meilleur défenseur des cases blanches. } 5. Qxd3 e6 6. Nf3 c5
+{ La rupture ...c5 tout de suite : on attaque d4 avant que les Blancs ne le consolident. } ) ( 4.
+Nc3 e6 5. g4 { Attaque agressive contre le fou. } 5... Bg6 6. Nge2 c5
+{ Toujours la même rupture contre d4. } ) ( 4. h4
+{ Les Blancs menacent h5 pour piéger/chasser le fou. } 4... h5
+{ On bloque le pion h : le fou garde la case g6 au besoin. } ) ( 4. c3 e6 ) ( 4. Be3 e6 ) ( 4. c4
+e6 ) ( 4. f4 e6 ) 4... e6 5. Be2 ( 5. Bd3 Bxd3 6. Qxd3 ) ( 5. h3 c5 ) ( 5. Nbd2 c5 ) ( 5. Nc3 Nd7 )
+5... c5 { La rupture typique : on attaque la base de la chaîne de pions (d4). } 6. O-O ( 6. Be3
+cxd4 7. Nxd4 Ne7 ) 6... Nc6 7. c3 cxd4 8. cxd4 Nge7 *

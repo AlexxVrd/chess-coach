@@ -1,0 +1,84 @@
+[Event "Système de Londres"]
+[Site "Chess Coach"]
+[Result "*"]
+[Color "White"]
+[Description "Un seul schéma contre presque tout : d4, Bf4, e3, Nf3, c3, Nbd2, Bd3, h3, O-O. Peu de théorie, des structures solides, et des idées qui reviennent toujours."]
+
+1. d4 { Le coup de base : on prend le centre et on libère le fou c1. } 1... d5 ( 1... Nf6 2. Bf4 d5
+( 2... g6 3. e3 Bg7 4. Nf3 O-O ( 4... d6 5. Be2 O-O 6. h3 ) ( 4... c5 5. c3
+{ Le triangle tient d4. } ) 5. Be2 d6 6. h3
+{ Une case de retraite en h2 pour le fou contre ...Nh5 ou ...e5. } 6... c5 7. c3 ) ( 2... e6 3. e3
+c5 ( 3... d5 4. Nf3 ) ( 3... b6 4. Nf3 Bb7 5. h3 { Une case de retraite pour le fou f4. } ) 4. c3
+d5 5. Nd2 Nc6 6. Ngf3 ) ( 2... c5 3. e3 Nc6 ( 3... Qb6 4. Nc3 ) ( 3... cxd4 4. exd4 d5 5. c3 ) 4.
+d5
+{ Le cavalier n'a pas encore de pion d5 devant lui : on le chasse et on gagne de l'espace avec tempo. }
+4... Nb8 ( 4... Na5 5. a3 { Menace b4 : le cavalier a5 n'a plus de case. } ) ( 4... e5 5. Bg3 ) 5.
+Nc3 { Puis e4 : un centre énorme. } ) ( 2... d6 3. e3 g6 4. Nf3 Bg7 ) ( 2... Nc6 3. e3 d5 4. Nf3 )
+3. e3 ) ( 1... e6 2. Bf4 ( 2. e4 { Très bon aussi : on entre dans la Française. } ) 2... d5 ( 2...
+c5 3. e3 ) 3. e3 Nf6 4. Nf3 ) ( 1... e5
+{ Le gambit Englund : dangereux si on ne connaît pas le piège. } 2. dxe5 { On prend le pion. } 2...
+Nc6 ( 2... d6 { Les Noirs veulent rendre le pion contre du développement. } 3. Nf3
+{ Pas besoin de prendre : on garde e5 et on développe. } 3... dxe5 4. Qxd8+ Kxd8 5. Nxe5
+{ Un pion de plus, et le roi noir a perdu le roque. } ) ( 2... f6 { Le gambit Soller. } 3. e4
+{ Inutile de prendre : on garde e5 et on construit un centre énorme. Le pion f6 a affaibli la diagonale e8-h5. }
+3... fxe5 $2 ( 3... Nc6 4. Nf3 ) 4. Qh5+
+{ Le coup qui punit ...f6 : après ...g6, Qxe5+ fourchette le roi et la tour h8. } ) ( 2... Bc5 $6
+{ Les Noirs visent f2. } 3. Nf3 { Développe, défend h4 et garde le pion e5. } ) 3. Nf3
+{ On défend e5. } 3... Qe7 4. Bf4
+{ On défend encore e5. ATTENTION au piège : après ...Qb4+ Bd2 Qxb2, ne joue SURTOUT PAS Bc3 ?? à cause de ...Bb4 ! et ...Qc1#. }
+4... Qb4+ 5. Bd2 Qxb2 6. Nc3
+{ Le bon coup : on développe, la dame noire est en danger et Rb1 va suivre. } ) ( 1... g6 2. Bf4
+{ Contre ...g6, e4 (centre complet) est aussi très bon ; on reste dans le Londres pour garder tes plans habituels. }
+( 2. e4 { Très bon aussi (meilleur selon Stockfish), mais on sort du Londres. } ) 2... Bg7 3. e3 d6
+( 3... c5 4. c3 Qb6 5. Qb3 ) 4. Nf3 Nf6 5. Be2 ) ( 1... f5 { La Hollandaise. } 2. Bf4 Nf6 3. e3 e6
+4. Nf3 Be7 5. h3 O-O 6. Bd3 ) ( 1... d6 2. Bf4 ( 2. e4
+{ Très bon aussi : on entre dans la Pirc avec un centre complet. } ) 2... Nf6 ( 2... g6 3. Nf3 Bg7
+4. e3 Nf6 ) 3. e3 g6 4. Nf3 Bg7 ) ( 1... c5 { La Benoni : on prend de l'espace avec d5. } 2. d5 e5
+( 2... Nf6 3. Nc3 d6 4. e4 ) ( 2... e6 3. e4 ) 3. e4 d6 4. Nc3 ) ( 1... Nc6 2. d5
+{ On chasse le cavalier : gain de temps et d'espace. } ( 2. e4 { Bon aussi : centre complet. } )
+2... Ne5 ( 2... Nb8 3. e4 ) 3. e4 ) ( 1... c6 2. Bf4 ( 2. e4
+{ Très bon aussi : on entre dans une Caro-Kann côté blanc. } ) 2... d5 3. e3 ) 2. Bf4
+{ Le fou sort AVANT e3 pour ne pas être enfermé derrière ses pions : c'est toute l'idée du Londres. }
+2... Nf6 ( 2... c5 3. e3 Nc6 ( 3... Qb6 4. Nc3
+{ Le pion b2 est empoisonné : si ...Qxb2 ?, Nxd5 ! et les Noirs s'effondrent. } 4... Qxb2 $2 5.
+Nxd5 { Menace Nc7+ (fourchette roi-tour) et Rb1 qui chasse la dame : les Blancs gagnent. } ) ( 3...
+cxd4 4. exd4 { On reprend avec le pion e : structure solide et colonne e semi-ouverte. } 4... Nc6
+5. c3 ) 4. c3 Nf6 5. Nd2 ) ( 2... Bf5 3. e3 ( 3. Nf3
+{ Jouable, mais e3 + c4 met plus de pression sur b7. } ) 3... Nf6 ( 3... e6 4. c4
+{ Même idée : c4 puis Qb3 contre b7. } ) 4. c4 ) ( 2... e6 3. e3 ( 3. Nf3
+{ Aussi jouable que e3 : mêmes plans. } ) 3... Nf6 ( 3... c5 4. c3 Nc6 5. Nd2 Nf6 6. Ngf3 ) 4. Nf3
+) ( 2... c6 3. e3 Nf6 ( 3... Bf5 4. Bd3 ) 4. Nf3 ) ( 2... Nc6
+{ Le coup le plus fréquent de tes adversaires ici. } 3. e3 Bf5 ( 3... Bg4 $2
+{ Erreur fréquente : le fou n'est pas défendu. } 4. Qxg4
+{ Après e3, la case e2 est vide : ta dame prend le fou g4. Une pièce de plus ! } ) ( 3... Nf6 4.
+Nf3 ) ( 3... e6 4. c4 ) 4. c4 { Toujours la même idée contre ...Bf5 : c4 puis Qb3 contre b7. } ) (
+2... e5 $6 { Un gambit douteux. } 3. dxe5 { On prend : les Noirs n'ont pas assez de compensation. }
+) ( 2... g6 3. e3 ) 3. e3 { Ouvre la diagonale du fou f1 et soutient d4. } ( 3. Nf3
+{ Aussi bon que e3 (c'est même le choix de Stockfish) : on retombe sur les mêmes plans. } ) 3... e6
+( 3... c5 4. c3 { Comme toujours : le triangle c3-d4-e3. } 4... Nc6 ( 4... Qb6 5. Qb3
+{ On couvre b2 et on propose l'échange des dames. } ) 5. Nd2
+{ Ici Nd2 d'abord : si ...Qb6, Qb3 sans laisser b2. } 5... e6 ( 5... Qb6 6. Qb3 ) ( 5... Bf5
+{ Le fou f5 a quitté c8 : b7 n'est plus défendu. } 6. Qb3 { On attaque b7 tout de suite. } ) 6.
+Ngf3 Bd6 7. Bg3 O-O 8. Bd3 ) ( 3... Bf5 { Les Noirs copient ton fou. } 4. c4
+{ Quand le fou noir sort en f5, b7 est sans défense : c4 puis Qb3 l'exploite. } 4... e6 5. Nc3 c6
+6. Qb3 { On attaque b7. } 6... Qb6 7. c5 { On chasse la dame noire avec gain de temps. } 7... Qxb3
+8. axb3 { La colonne a s'ouvre pour ta tour. } ) ( 3... g6
+{ Les Noirs fianchettent : le fou g7 visera d4 et b2. } 4. Nf3 Bg7 5. Be2 { Simple et solide. }
+5... O-O 6. O-O c5 7. c3 ) ( 3... c6 4. Nf3 Bf5 ( 4... Bg4 5. Nbd2
+{ Soutient e4 et le cavalier f3. } 5... e6 6. c3 Bd6 7. h3
+{ On pose la question au fou g4 avant de décider quoi faire de Bf4. } ) 5. Bd3
+{ On échange le meilleur fou des Noirs. } 5... Bxd3 6. Qxd3 e6 7. Nbd2 ) 4. Nf3 c5 ( 4... Bd6
+{ Les Noirs proposent l'échange des fous. } 5. Bg3
+{ On recule en g3 : si ...Bxg3, hxg3 et la colonne h est à toi. } 5... O-O ( 5... Bxg3 6. hxg3
+{ On reprend vers le centre : la tour h1 travaille déjà sur la colonne h semi-ouverte. } 6... c5 7.
+c3 Nc6 8. Nbd2 ) 6. Bd3 c5 7. c3 Nc6 8. Nbd2 ) ( 4... Be7 5. Bd3
+{ Développement naturel : le fou vise h7. } 5... c5 6. c3 Nc6 7. Nbd2 O-O 8. O-O
+{ Même plan qu'ailleurs : Ne5, f4 ou e4 selon la position. } ) 5. c3
+{ Le triangle c3-d4-e3 : ton centre est imprenable. } 5... Nc6 ( 5... Qb6
+{ Même idée, avant ...Nc6. } 6. Qb3 { Même réponse : on couvre b2 et on propose l'échange. } ) 6.
+Nbd2 { Le cavalier va en d2 (pas en c3, où il gênerait le pion c3) et soutiendra la poussée e4. }
+6... Bd6 ( 6... Qb6 { L'attaque sur b2 est LA réaction typique contre le Londres. } 7. Qb3
+{ On défend b2 en proposant l'échange : après ...Qxb3 axb3, ta tour a1 devient active sur la colonne a. }
+7... c4 8. Qc2 { Le blocage ...c4 ferme l'aile dame : ton plan devient e4 pour ouvrir le centre. }
+) 7. Bg3 { On garde le fou : si ...Bxg3, hxg3 ouvre la colonne h à ta tour. } 7... O-O 8. Bd3
+{ Plan : O-O puis Ne5 + f4 (attaque à l'aile roi), ou Qe2 + e4 (ouverture du centre). } *
